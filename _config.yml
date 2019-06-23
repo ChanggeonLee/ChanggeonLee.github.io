@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
+baseurl: "https://github.com/ChanggeonLee/ChanggeonLee.github.io"
 url: "https://changgeonlee.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
